@@ -1,1 +1,1 @@
-# JamnixStatic
+# Static.Jamnix.com
